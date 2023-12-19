@@ -83,7 +83,7 @@ class AppleAuthButton extends AuthButton {
       buttonType: style!.buttonType,
       iconType: style!.iconType,
       enabled: enabled,
-      fontFamily: 'Source Sans Pro',
+      fontFamily: 'SourceSansPro',
       fontWeight: FontWeight.w600,
       textColor: TextColor(
         darkMode ? Colors.white : Colors.black,
